@@ -64,7 +64,9 @@ class _LogInAppState extends State<LogInApp> {
                   onPressed: () {
                     changeObcureTextState();
                   },
-                  icon: Icon(Icons.remove_red_eye),
+                  icon: Icon(
+                    isObscureText ? Icons.visibility : Icons.visibility_off,
+                  ),
                 ),
                 border: OutlineInputBorder(
                   borderSide: BorderSide(width: 2.0),
