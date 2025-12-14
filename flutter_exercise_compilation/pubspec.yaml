@@ -39,6 +39,61 @@ dependencies:
       url: https://github.com/TruongVanTanTai/FlutterProjects.git
       ref: main
       path: flutter_application_2
+  flutter_application_3:
+    git:
+      url: https://github.com/TruongVanTanTai/FlutterProjects.git
+      ref: main
+      path: flutter_application_3
+  flutter_application_4:
+    git:
+      url: https://github.com/TruongVanTanTai/FlutterProjects.git
+      ref: main
+      path: flutter_application_4
+  flutter_application_5:
+    git:
+      url: https://github.com/TruongVanTanTai/FlutterProjects.git
+      ref: main
+      path: flutter_application_5
+  flutter_application_6:
+    git:
+      url: https://github.com/TruongVanTanTai/FlutterProjects.git
+      ref: main
+      path: flutter_application_6
+  flutter_application_7:
+    git:
+      url: https://github.com/TruongVanTanTai/FlutterProjects.git
+      ref: main
+      path: flutter_application_7
+  flutter_application_8:
+    git:
+      url: https://github.com/TruongVanTanTai/FlutterProjects.git
+      ref: main
+      path: flutter_application_8
+  flutter_application_9:
+    git:
+      url: https://github.com/TruongVanTanTai/FlutterProjects.git
+      ref: main
+      path: flutter_application_9
+  flutter_application_10:
+    git:
+      url: https://github.com/TruongVanTanTai/FlutterProjects.git
+      ref: main
+      path: flutter_application_10
+  flutter_application_11:
+    git:
+      url: https://github.com/TruongVanTanTai/FlutterProjects.git
+      ref: main
+      path: flutter_application_11
+  flutter_application_12:
+    git:
+      url: https://github.com/TruongVanTanTai/FlutterProjects.git
+      ref: main
+      path: flutter_application_12
+  flutter_application_13:
+    git:
+      url: https://github.com/TruongVanTanTai/FlutterProjects.git
+      ref: main
+      path: flutter_application_13
 
 dev_dependencies:
   flutter_test:
