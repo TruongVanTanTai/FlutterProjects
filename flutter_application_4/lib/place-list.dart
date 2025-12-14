@@ -86,19 +86,35 @@ class PlaceList extends StatelessWidget {
         children: [
           ClipRRect(
             borderRadius: BorderRadius.all(Radius.circular(8)),
-            child: Image.asset('assets/images/image-01.jpg', fit: BoxFit.cover),
+            child: //Image.asset('assets/images/image-01.jpg', fit: BoxFit.cover),
+            Image.network(
+              'https://api.sovaba.travel/uploads/sm_tham_quan_dai_noi_hue_mat_bao_laujpg_1c0aec1789.jpg',
+              fit: BoxFit.cover,
+            ),
           ),
           ClipRRect(
             borderRadius: BorderRadius.all(Radius.circular(8)),
-            child: Image.asset('assets/images/image-02.jpg', fit: BoxFit.cover),
+            child: //Image.asset('assets/images/image-02.jpg', fit: BoxFit.cover),
+            Image.network(
+              'https://afamilycdn.com/k:thumb_w/600/WV8iA0A8EAfajQ9tIqEEPbrc36AeNK/Image/2015/01/anh4-ce192/canh-dep-me-hoac-cua-dat-nuoc-trung-quoc.jpg',
+              fit: BoxFit.cover,
+            ),
           ),
           ClipRRect(
             borderRadius: BorderRadius.all(Radius.circular(8)),
-            child: Image.asset('assets/images/image-03.jpg', fit: BoxFit.cover),
+            child: //Image.asset('assets/images/image-03.jpg', fit: BoxFit.cover),
+            Image.network(
+              'https://lh7-rt.googleusercontent.com/docsz/AD_4nXckt22vJDI7T8HsEsUB-pK3NTOlY4rAOW-Yjjs0o6vbMHmyJ855UJJz2AoxPAKLwoVMFN9Imsa3cduZLOjL0F1sC_p-eO5ux-SDIVSOXwvQ7ZoaW5jIyWUEoX8n7fP1Eg81vm2u?key=nkI2RATtNfrpGIQR8qqFB5D_',
+              fit: BoxFit.cover,
+            ),
           ),
           ClipRRect(
             borderRadius: BorderRadius.all(Radius.circular(8)),
-            child: Image.asset('assets/images/image-04.jpg', fit: BoxFit.cover),
+            child: //Image.asset('assets/images/image-04.jpg', fit: BoxFit.cover),
+            Image.network(
+              'https://images2.thanhnien.vn/528068263637045248/2024/8/14/h1-1723609152242109447814.png',
+              fit: BoxFit.cover,
+            ),
           ),
         ],
       ),
