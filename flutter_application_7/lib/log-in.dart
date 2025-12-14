@@ -8,6 +8,9 @@ class LogInApp extends StatefulWidget {
 }
 
 class _LogInAppState extends State<LogInApp> {
+  final _formKey = GlobalKey<FormState>();
+  bool isObscureText = true;
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -22,9 +25,6 @@ class _LogInAppState extends State<LogInApp> {
   }
 
   Widget LogInForm() {
-    final _formKey = GlobalKey<FormState>();
-    bool isObscureText = true;
-
     void changeObcureTextState() {
       setState(() {
         isObscureText = !isObscureText;
@@ -87,7 +87,7 @@ class _LogInAppState extends State<LogInApp> {
               onPressed: () {
                 if (_formKey.currentState!.validate()) {
                   ScaffoldMessenger.of(context).showSnackBar(
-                    SnackBar(content: Text("Log in successfully!")),
+                    SnackBar(content: Text("Log in successfully")),
                   );
                 }
               },
