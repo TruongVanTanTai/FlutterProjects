@@ -104,7 +104,7 @@ class PlaceList extends StatelessWidget {
             borderRadius: BorderRadius.all(Radius.circular(8)),
             child: //Image.asset('assets/images/image-03.jpg', fit: BoxFit.cover),
             Image.network(
-              'https://lh7-rt.googleusercontent.com/docsz/AD_4nXckt22vJDI7T8HsEsUB-pK3NTOlY4rAOW-Yjjs0o6vbMHmyJ855UJJz2AoxPAKLwoVMFN9Imsa3cduZLOjL0F1sC_p-eO5ux-SDIVSOXwvQ7ZoaW5jIyWUEoX8n7fP1Eg81vm2u?key=nkI2RATtNfrpGIQR8qqFB5D_',
+              'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/River_side%2C_Hu%C3%A9%2C_Vietnam.jpg/330px-River_side%2C_Hu%C3%A9%2C_Vietnam.jpg',
               fit: BoxFit.cover,
             ),
           ),
