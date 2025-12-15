@@ -146,11 +146,13 @@ class _MyArticlesState extends State<MyArticles> {
                 children: [
                   Text(
                     article.title,
+                    maxLines: 3,
+                    overflow: TextOverflow.ellipsis,
                     style: TextStyle(fontWeight: FontWeight.bold),
                   ),
                   Text(
                     article.content,
-                    maxLines: 5,
+                    maxLines: 3,
                     overflow: TextOverflow.ellipsis,
                   ),
                 ],
