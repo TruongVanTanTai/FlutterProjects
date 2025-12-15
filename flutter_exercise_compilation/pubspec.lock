@@ -211,7 +211,7 @@ packages:
     description:
       path: flutter_application_10
       ref: main
-      resolved-ref: "799e18adc8dd5f60083f580c30a9acdeddd5b2ed"
+      resolved-ref: ed07f25f15098a1bbfe92a8710539a2275d12683
       url: "https://github.com/TruongVanTanTai/FlutterProjects.git"
     source: git
     version: "1.0.0+1"
@@ -220,7 +220,7 @@ packages:
     description:
       path: flutter_application_11
       ref: main
-      resolved-ref: "799e18adc8dd5f60083f580c30a9acdeddd5b2ed"
+      resolved-ref: ed07f25f15098a1bbfe92a8710539a2275d12683
       url: "https://github.com/TruongVanTanTai/FlutterProjects.git"
     source: git
     version: "1.0.0+1"
@@ -229,7 +229,7 @@ packages:
     description:
       path: flutter_application_12
       ref: main
-      resolved-ref: "799e18adc8dd5f60083f580c30a9acdeddd5b2ed"
+      resolved-ref: ed07f25f15098a1bbfe92a8710539a2275d12683
       url: "https://github.com/TruongVanTanTai/FlutterProjects.git"
     source: git
     version: "1.0.0+1"
@@ -238,7 +238,7 @@ packages:
     description:
       path: flutter_application_13
       ref: main
-      resolved-ref: "799e18adc8dd5f60083f580c30a9acdeddd5b2ed"
+      resolved-ref: ed07f25f15098a1bbfe92a8710539a2275d12683
       url: "https://github.com/TruongVanTanTai/FlutterProjects.git"
     source: git
     version: "1.0.0+1"
@@ -247,7 +247,7 @@ packages:
     description:
       path: flutter_application_2
       ref: main
-      resolved-ref: "799e18adc8dd5f60083f580c30a9acdeddd5b2ed"
+      resolved-ref: ed07f25f15098a1bbfe92a8710539a2275d12683
       url: "https://github.com/TruongVanTanTai/FlutterProjects.git"
     source: git
     version: "1.0.0+1"
@@ -256,7 +256,7 @@ packages:
     description:
       path: flutter_application_3
       ref: main
-      resolved-ref: "799e18adc8dd5f60083f580c30a9acdeddd5b2ed"
+      resolved-ref: ed07f25f15098a1bbfe92a8710539a2275d12683
       url: "https://github.com/TruongVanTanTai/FlutterProjects.git"
     source: git
     version: "1.0.0+1"
@@ -265,7 +265,7 @@ packages:
     description:
       path: flutter_application_4
       ref: main
-      resolved-ref: "799e18adc8dd5f60083f580c30a9acdeddd5b2ed"
+      resolved-ref: ed07f25f15098a1bbfe92a8710539a2275d12683
       url: "https://github.com/TruongVanTanTai/FlutterProjects.git"
     source: git
     version: "1.0.0+1"
@@ -274,7 +274,7 @@ packages:
     description:
       path: flutter_application_5
       ref: main
-      resolved-ref: "799e18adc8dd5f60083f580c30a9acdeddd5b2ed"
+      resolved-ref: ed07f25f15098a1bbfe92a8710539a2275d12683
       url: "https://github.com/TruongVanTanTai/FlutterProjects.git"
     source: git
     version: "1.0.0+1"
@@ -283,7 +283,7 @@ packages:
     description:
       path: flutter_application_6
       ref: main
-      resolved-ref: "799e18adc8dd5f60083f580c30a9acdeddd5b2ed"
+      resolved-ref: ed07f25f15098a1bbfe92a8710539a2275d12683
       url: "https://github.com/TruongVanTanTai/FlutterProjects.git"
     source: git
     version: "1.0.0+1"
@@ -292,7 +292,7 @@ packages:
     description:
       path: flutter_application_7
       ref: main
-      resolved-ref: "799e18adc8dd5f60083f580c30a9acdeddd5b2ed"
+      resolved-ref: ed07f25f15098a1bbfe92a8710539a2275d12683
       url: "https://github.com/TruongVanTanTai/FlutterProjects.git"
     source: git
     version: "1.0.0+1"
@@ -301,7 +301,7 @@ packages:
     description:
       path: flutter_application_8
       ref: main
-      resolved-ref: "799e18adc8dd5f60083f580c30a9acdeddd5b2ed"
+      resolved-ref: ed07f25f15098a1bbfe92a8710539a2275d12683
       url: "https://github.com/TruongVanTanTai/FlutterProjects.git"
     source: git
     version: "1.0.0+1"
@@ -310,7 +310,7 @@ packages:
     description:
       path: flutter_application_9
       ref: main
-      resolved-ref: "799e18adc8dd5f60083f580c30a9acdeddd5b2ed"
+      resolved-ref: ed07f25f15098a1bbfe92a8710539a2275d12683
       url: "https://github.com/TruongVanTanTai/FlutterProjects.git"
     source: git
     version: "1.0.0+1"

@@ -85,7 +85,7 @@ class _MyProductsState extends State<MyProducts> {
         mainAxisAlignment: MainAxisAlignment.spaceAround,
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Center(child: Image.network(product.image, width: 100, height: 160)),
+          Center(child: Image.network(product.image, width: 100, height: 120)),
           SizedBox(height: 16),
           Text(
             product.title,

@@ -86,10 +86,7 @@ class _CounterAppState extends State<CounterApp> {
       children: [
         ElevatedButton(
           onPressed: decreaseNumber,
-          child: Row(
-            spacing: 5,
-            children: [Icon(Icons.remove), Text('Decrease')],
-          ),
+          child: Row(spacing: 5, children: [Icon(Icons.remove), Text('Giam')]),
           style: ElevatedButton.styleFrom(
             backgroundColor: Colors.red,
             foregroundColor: Colors.white,
@@ -97,10 +94,7 @@ class _CounterAppState extends State<CounterApp> {
         ),
         ElevatedButton(
           onPressed: resetNumber,
-          child: Row(
-            spacing: 5,
-            children: [Icon(Icons.refresh), Text('Reset')],
-          ),
+          child: Row(spacing: 5, children: [Icon(Icons.refresh), Text('Lai')]),
           style: ElevatedButton.styleFrom(
             backgroundColor: Colors.blueGrey,
             foregroundColor: Colors.white,
@@ -108,7 +102,7 @@ class _CounterAppState extends State<CounterApp> {
         ),
         ElevatedButton(
           onPressed: increaseNumber,
-          child: Row(spacing: 5, children: [Icon(Icons.add), Text('Increase')]),
+          child: Row(spacing: 5, children: [Icon(Icons.add), Text('Tang')]),
           style: ElevatedButton.styleFrom(
             backgroundColor: Colors.green,
             foregroundColor: Colors.white,
